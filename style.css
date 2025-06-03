@@ -74,6 +74,11 @@ body {
   background-color: #5c0202;
   font-family: courier;
   letter-spacing: 1em;
+  font-weight: bolder;
+  text-align: center;
+  color: #ffffff;
+  padding: 10px;
+}
 h5{
   background-color: #5c0202;
   padding: 10px;
@@ -85,9 +90,4 @@ h5{
   border: rgb(252, 227, 90) solid 4px;
   border-bottom-left-radius: 50px;
   border-top-right-radius: 50px;
-}
-  font-weight: bolder;
-  text-align: center;
-  color: #ffffff;
-  padding: 10px;
 }
